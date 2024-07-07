@@ -1,0 +1,5 @@
+Real Time Diabetic Retinopathy Dataset - https://www.kaggle.com/datasets/mariaherrerot/aptos2019.
+
+ResNet 152 Documentation - https://pytorch.org/vision/main/models/resnet.html.
+
+
