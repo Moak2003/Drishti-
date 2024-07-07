@@ -91,7 +91,10 @@ Create a Pull Request
 Go to the original repository on GitHub and create a pull request.
 
 **Links**
-**APTOS Real Time Diabetic Retinopathy Dataset Link - https://www.kaggle.com/datasets/mariaherrerot/aptos2019.**
-**Deployed Project on Hugging Face - https://huggingface.co/spaces/idk-who/DRD.**
+**APTOS Real Time Diabetic Retinopathy Dataset Link - 
+https://www.kaggle.com/datasets/mariaherrerot/aptos2019.**
+
+**Deployed Project on Hugging Face - 
+https://huggingface.co/spaces/idk-who/DRD.**
 
 Thank You.
